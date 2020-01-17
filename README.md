@@ -1,3 +1,5 @@
+## Java Shell
+
 Download the repo to your computer. To run the program:
 - Use your preferred IDE(for instance Eclipse) to import project from the directory where you downloaded the files.
 - Under 'src', run 'jShell.java' as java application.
