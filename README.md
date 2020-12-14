@@ -1,4 +1,4 @@
-## Java Shell
+## Linux shell clone in Java
 
 Instructions:
 - Clone repo to your computer.
